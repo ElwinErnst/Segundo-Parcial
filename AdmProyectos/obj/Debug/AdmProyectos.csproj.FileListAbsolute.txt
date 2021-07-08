@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe.config
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.pdb
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.exe
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.pdb
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\source\repos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CopyComplete
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.exe
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.pdb
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe.config
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.pdb
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\bin\Debug\FirstLibrary.dll
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\bin\Debug\System.Data.SQLite.dll
+C:\Users\MI\Desktop\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CopyComplete
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe.config
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.exe
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\bin\Debug\AdmProyectos.pdb
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\bin\Debug\System.Data.SQLite.dll
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csprojAssemblyReference.cache
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CoreCompileInputs.cache
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.csproj.CopyComplete
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.exe
+D:\#Sistemas\4 Cuatrimestre\Programacion II\Codigos\AdmProyectos\AdmProyectos\obj\Debug\AdmProyectos.pdb
